@@ -1,0 +1,39 @@
+# Visual Studio 관련
+.vs/
+.VS/
+*.sln
+*.vcxproj*
+*.user
+*.suo
+*.pdb
+
+# 빌드 및 중간 파일들
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# 백업 폴더
+Backup/
+
+# 자동 생성 로그 파일
+*.log
+
+# Unreal Engine 자동 생성 파일
+*.opensdf
+*.sdf
+*.ipch
+
+# Mac 시스템 파일
+.DS_Store
+
+# Visual Studio Code 설정 폴더 (있으면)
+.vscode/
+.vsconfig
+
+# 기타 바이너리 및 임시파일
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
